@@ -1,0 +1,1 @@
+# Details_Extractor

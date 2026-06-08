@@ -1,0 +1,284 @@
+[
+  {
+    "doc_id": "Aadhar",
+    "source_file": "D:\\Details_Extractor-main\\Details_Extractor-main\\Data\\Raw\\Aadhar.png",
+    "doc_type": "Aadhaar Card",
+    "classification_confidence": 85,
+    "is_handwritten": false,
+    "extracted_fields": {
+      "Aadhaar Number": {
+        "value": "12345678 9012",
+        "confidence": 100
+      },
+      "Full Name": {
+        "value": "Keau",
+        "confidence": 85
+      },
+      "Date of Birth": {
+        "value": "18/12/1979",
+        "confidence": 85
+      },
+      "Address": {
+        "value": "31TUT 7Z Aadhaar Number SIO Kumar",
+        "confidence": 70
+      }
+    },
+    "overall_confidence": 85,
+    "raw_text_preview": "HRT FRTT GOVERNMENT OF INDIA AADHAAR Name TTA Mr. Ashok Date of Birth JF ffu 18/12/1979 Gender frT Male 5q 12345678 9012 ArT 3T8R , A 48 -TT HRay faferez 93ulatqiferdrut UNIQUE IDENTIFICATION AUTHORITY OF INDIA 30T8R 9a Address 31TUT 7Z Aadhaar Number SIO Kumar; 1234 5678 9012 Kataia, TTAThT 8HTch Enrollment No West Bihar 1234/56789/12345 India 841543 Mr * & Tlfu Date ssue 01/01/2015 1947 help@uidaigov.in This is . sample dummy Aadhaar card for demonstration purpose only: 1800 300 1947 www.uidai"
+  },
+  {
+    "doc_id": "ChatGPT Image May 2, 2026, 03_43_11 PM",
+    "source_file": "D:\\Details_Extractor-main\\Details_Extractor-main\\Data\\Raw\\ChatGPT Image May 2, 2026, 03_43_11 PM.png",
+    "doc_type": "Driving Licence",
+    "classification_confidence": 80,
+    "is_handwritten": false,
+    "extracted_fields": {
+      "DL Number": {
+        "value": "MH12",
+        "confidence": 85
+      },
+      "Name": {
+        "value": null,
+        "confidence": 0
+      },
+      "Date of Issue": {
+        "value": "15/06/2021",
+        "confidence": 85
+      },
+      "Valid Till date": {
+        "value": "14/06/2041",
+        "confidence": 85
+      }
+    },
+    "overall_confidence": 85,
+    "raw_text_preview": "INDIAN UNION DRIVING LICENCE FORM 7 RULE 16 (2) MAHARASHTRA STATE MH) Haa DL No: MH12 2021 0001234 DOI 15/06/2021 Valid Till 14/06/2041 Name MR. ASHOK S/WID of KUMAR MH DOB 18/12/1979 BG B+ Address S/O KUMAR, KATAIA, WEST BIHAR INDIA 841543 Ashob Signature of Holder Classes of Vehicles Validity Licencing Authority Date of Issue MCWG 14/06/2041 RTO, GAYA 15/06/2021 LMV 14/06/2041 Blood Group HMV 14/06/2041 Holder's Signature B+ Drive Safely, Follow Traffic Rules d, 4IdRla f4Hi &1 UaTV &7 Arrir 21"
+  },
+  {
+    "doc_id": "ChatGPT Image May 2, 2026, 03_52_54 PM",
+    "source_file": "D:\\Details_Extractor-main\\Details_Extractor-main\\Data\\Raw\\ChatGPT Image May 2, 2026, 03_52_54 PM.png",
+    "doc_type": "Passport",
+    "classification_confidence": 80,
+    "is_handwritten": false,
+    "extracted_fields": {
+      "Passport Number": {
+        "value": "X1234567",
+        "confidence": 95
+      },
+      "Date of Birth": {
+        "value": "18/12/1979",
+        "confidence": 85
+      },
+      "Date of Expiry": {
+        "value": "18/12/1979",
+        "confidence": 85
+      },
+      "MRZ Line 2": {
+        "value": null,
+        "confidence": 0
+      }
+    },
+    "overall_confidence": 88,
+    "raw_text_preview": "MR4€ YRT TURT& REPUBLIC OF INDIA PASSPORT 9aT Type 313 Country Code 4R4I€ z4t Passport No 7R4J J4a P IND X1234567 34771H Surname ASHOK 8w TT TA Given Name(s) MR: ASHOK Ruat Nationality INDIAN JFA faf Date of Birth fent Sex 18/12/1979 M TF F4N Place of Birth fuat &T TH Father's Name WEST BIHAR KUMAR NOT TTT Address S/0 KUMAR KATAIA Ashok WEST BIHAR INDIA 841543 YR & &78 Signature of Bearer JR &7 # faf Date of Issue FHa fafy Date of Expiry J & #T F Place of Issue REPUBLIC OF INDIA HRT TUFTJ4 01/01"
+  },
+  {
+    "doc_id": "ECS",
+    "source_file": "D:\\Details_Extractor-main\\Details_Extractor-main\\Data\\Raw\\ECS.jpeg",
+    "doc_type": "NACH / ECS Mandate",
+    "classification_confidence": 85,
+    "is_handwritten": true,
+    "extracted_fields": {
+      "Bank Account Number": {
+        "value": null,
+        "confidence": 0
+      },
+      "IFSC Code": {
+        "value": null,
+        "confidence": 0
+      },
+      "Bank Name": {
+        "value": "HDFC",
+        "confidence": 70
+      },
+      "Amount (figures)": {
+        "value": "0",
+        "confidence": 55
+      },
+      "Frequency": {
+        "value": null,
+        "confidence": 0
+      }
+    },
+    "overall_confidence": 62,
+    "raw_text_preview": "HDFC NACH MANDATE inSTRUCTiON Life Date [IBDIETOPIL C UMRN Ulility Codo Tick Sponsor Bank Code ICREATE HOFC LIFE to debit (lick SBicNCCISB-NREISB-NROIOTHER MoDIf\" IWVe hereby authonse CANCEL Bant alc numbcr BITopI42DE421121 Kin bant Stale Bank pL_India irsc [S B 1o or MICR 50,.006 an amount 0l Runces E3dy #ouSand On Btonnt+ly 2oh E#Yy 8Ym DAs {hen presenled DEBIT TYPE Bfiedtmourt Marximum Amount FREQUENCY Don?mh Mobile No. Referencc No 4\"L50034Lo4o25 Do no: Flf Relerence No_ {elcon Pc'5# Email I"
+  },
+  {
+    "doc_id": "Fatca",
+    "source_file": "D:\\Details_Extractor-main\\Details_Extractor-main\\Data\\Raw\\Fatca.jpeg",
+    "doc_type": "FATCA Annexure Form",
+    "classification_confidence": 85,
+    "is_handwritten": true,
+    "extracted_fields": {
+      "TIN / PAN": {
+        "value": "4921011602",
+        "confidence": 65
+      },
+      "Father's Name": {
+        "value": null,
+        "confidence": 0
+      },
+      "Place of Birth": {
+        "value": null,
+        "confidence": 0
+      },
+      "Nationality": {
+        "value": "Lndean",
+        "confidence": 80
+      },
+      "Policy Number": {
+        "value": null,
+        "confidence": 0
+      }
+    },
+    "overall_confidence": 72,
+    "raw_text_preview": "HDFC Nbht  4921011602 CNa Life ANNEXURE FORM Junder Section 285BAofthe Income Tax Act, 1961) Sofutho ve jitol (Informotion required forrcporting indwvnhnl (Froposct /rolicyholder/ Annuitant) os applicoble This form Is ta bc hlked by on Scction E Idcntihcation Detalls (Dleasc tclfondcomleteos opproprioto) Polny No: [oiol2L c) Customer I0 (To be filled by HDF€ Life):_ 6) Namc ol the Fronoscr /Policyholder/Annuitant: Section 2: Dcclaration of Tax Residency of taxresidence (as per section 6 of the I"
+  },
+  {
+    "doc_id": "ID",
+    "source_file": "D:\\Details_Extractor-main\\Details_Extractor-main\\Data\\Raw\\ID.png",
+    "doc_type": "PAN Card",
+    "classification_confidence": 95,
+    "is_handwritten": false,
+    "extracted_fields": {
+      "PAN Number": {
+        "value": "ABCDE1234F",
+        "confidence": 100
+      },
+      "Full Name": {
+        "value": null,
+        "confidence": 0
+      },
+      "Father's Name": {
+        "value": null,
+        "confidence": 0
+      },
+      "Date of Birth": {
+        "value": "18/12/1979",
+        "confidence": 85
+      }
+    },
+    "overall_confidence": 92,
+    "raw_text_preview": "3abr fa1T1JT 9TTRT rer INCOME TAX DEPARTMENT GOVT: OF INDIA 7Q4a Td OMe TaX depaRtaTENT Icotiniariame doracnrb] cco CONE tn dePARTuEHE @cenc dcirgboTCT doouL rerf} &r1 ri #T3 Ncove TaX Depap {dideede-upicocik Govt.Ofrdic} Jij DEPaFONENI CONT OF EpaRTIEN DOVTOF APIMCUT Permanent Account Number Card NCOTE HRT HCYI NcDe McO (Nede HCID hacK ABCDE1234F NcOF 'VC hcomiet TRER @oIF Hcoke efIndik Bodt.Cfiu 0er 0DI NcOMETKX Wicgcjodne ncometaOli Abcaaccool Ncometay depnnt dcbrscufeunglic come taX DePARTME"
+  },
+  {
+    "doc_id": "Illustration",
+    "source_file": "D:\\Details_Extractor-main\\Details_Extractor-main\\Data\\Raw\\Illustration.jpeg",
+    "doc_type": "Benefit Illustration Declaration",
+    "classification_confidence": 95,
+    "is_handwritten": true,
+    "extracted_fields": {
+      "Application Number": {
+        "value": "35031082193",
+        "confidence": 75
+      },
+      "Policyholder Name": {
+        "value": null,
+        "confidence": 0
+      },
+      "Date": {
+        "value": null,
+        "confidence": 0
+      },
+      "Place": {
+        "value": null,
+        "confidence": 0
+      }
+    },
+    "overall_confidence": 75,
+    "raw_text_preview": "KDFC Psnt 35031082193/CAN' Life Customer Declaration Benefit Illustration Saf ushunbejiyol Application/ Froposal Form Numnber: L500131olbob Name of the Ufe Assured/ Proposed Policyholder Asbok with the above referenced Application/   Proposal Form Number bencfit   illustration   provided you by Life   in connection The wise premiums payable benefits under the policy: ( Bencfit Illustration\") is intended to showyear- performance of your insurer and some benefits are Variable with returns based on"
+  },
+  {
+    "doc_id": "Moral",
+    "source_file": "D:\\Details_Extractor-main\\Details_Extractor-main\\Data\\Raw\\Moral.jpeg",
+    "doc_type": "Moral Hazard Questionnaire",
+    "classification_confidence": 95,
+    "is_handwritten": true,
+    "extracted_fields": {
+      "Application Number": {
+        "value": "37601025",
+        "confidence": 60
+      },
+      "Name of Life Assured": {
+        "value": null,
+        "confidence": 0
+      },
+      "Nominee Relationship": {
+        "value": "is captured as",
+        "confidence": 75
+      },
+      "Date": {
+        "value": null,
+        "confidence": 0
+      },
+      "Place": {
+        "value": null,
+        "confidence": 0
+      }
+    },
+    "overall_confidence": 67,
+    "raw_text_preview": "{or/ /1J6178.1791 p\"Au}aG HDFC Life Moral Hazard Questionnaire Sutlif \"jus! HDFC Lile Insurancc Co. Ltd. To cnablc Us to assess your appllcation, plcase fill and sign Thank You for applying for a policy (rom (applicant) this document: Policy No:; Application No. 500/37601025 Name of Ihe Life to be Assured Asbok Plcase Ict us know thc details of dcpendents in your family: Mother Spouse Children Relationship Father Dcpendent (Mention Yes or No No No No Youhave nominated a person who does not fall "
+  },
+  {
+    "doc_id": "split",
+    "source_file": "D:\\Details_Extractor-main\\Details_Extractor-main\\Data\\Raw\\split.jpeg",
+    "doc_type": "Multiple Policies Consent Form",
+    "classification_confidence": 85,
+    "is_handwritten": true,
+    "extracted_fields": {
+      "Proposer Name": {
+        "value": null,
+        "confidence": 0
+      },
+      "Reason for Multiple Policies (selected checkbox)": {
+        "value": null,
+        "confidence": 0
+      },
+      "Date": {
+        "value": null,
+        "confidence": 0
+      },
+      "Place": {
+        "value": "West B",
+        "confidence": 65
+      }
+    },
+    "overall_confidence": 65,
+    "raw_text_preview": "Split & Multiple Policies Customer Consent form Proposer Life Assured Name: Ashok Mr. Mrs. that I have taken multiple Ashok hereby confirm last six months_ policies HDFC Life Insurance Company Limited in Reason for buying multiple policies: Financial Planning (viz   payout o different life stages, different payment terms,etc:) Different investment protection needs (viz. protection, child plan, etc ) Separate policy purchased for dlfferent benericlary Others: Please specify: understand and agree "
+  },
+  {
+    "doc_id": "suitability",
+    "source_file": "D:\\Details_Extractor-main\\Details_Extractor-main\\Data\\Raw\\suitability.jpeg",
+    "doc_type": "Benefit Illustration Declaration",
+    "classification_confidence": 85,
+    "is_handwritten": true,
+    "extracted_fields": {
+      "Application Number": {
+        "value": "195711082103",
+        "confidence": 100
+      },
+      "Policyholder Name": {
+        "value": null,
+        "confidence": 0
+      },
+      "Date": {
+        "value": null,
+        "confidence": 0
+      },
+      "Place": {
+        "value": "Wesl Bilnx Ran Signature Agent",
+        "confidence": 65
+      }
+    },
+    "overall_confidence": 82,
+    "raw_text_preview": "HDFC FSN/195711082103/6AN4 Life Declaration Suitability Profiler Saf usln be jiyol Customer Applicatior/ Proposal Form Number: 50013 160l025 Name of the Life Assurrd/ Proposcd Policyholder Dshok provided to mel us by HDFC Life in connection with the above referenced V We hcrrby dcclare and confirm that the product recommendation and information provided by mel U5. Number by way of the \"Suitability Profiler\" has beenderived based on the inputs Anplicationv Proposal form insurance need: and confir"
+  }
+]

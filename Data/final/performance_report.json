@@ -1,0 +1,303 @@
+{
+  "summary": {
+    "total_documents": 12,
+    "total_fields_expected": 53,
+    "fields_extracted_non_null": 25,
+    "extraction_rate": 0.472,
+    "fields_flagged_below_threshold": 28,
+    "flag_rate": 0.528,
+    "average_confidence_across_fields": 38.11
+  },
+  "per_field_accuracy": {
+    "Aadhaar Number": {
+      "total_occurrences": 1,
+      "times_extracted": 1,
+      "times_flagged": 0,
+      "average_confidence": 100.0
+    },
+    "Address": {
+      "total_occurrences": 1,
+      "times_extracted": 1,
+      "times_flagged": 0,
+      "average_confidence": 70.0
+    },
+    "Amount (figures)": {
+      "total_occurrences": 2,
+      "times_extracted": 1,
+      "times_flagged": 1,
+      "average_confidence": 37.5
+    },
+    "Application Number": {
+      "total_occurrences": 3,
+      "times_extracted": 3,
+      "times_flagged": 0,
+      "average_confidence": 78.33
+    },
+    "Bank Account Number": {
+      "total_occurrences": 2,
+      "times_extracted": 0,
+      "times_flagged": 2,
+      "average_confidence": 0.0
+    },
+    "Bank Name": {
+      "total_occurrences": 2,
+      "times_extracted": 2,
+      "times_flagged": 0,
+      "average_confidence": 70.0
+    },
+    "DL Number": {
+      "total_occurrences": 1,
+      "times_extracted": 1,
+      "times_flagged": 0,
+      "average_confidence": 85.0
+    },
+    "Date": {
+      "total_occurrences": 4,
+      "times_extracted": 0,
+      "times_flagged": 4,
+      "average_confidence": 0.0
+    },
+    "Date of Birth": {
+      "total_occurrences": 3,
+      "times_extracted": 3,
+      "times_flagged": 0,
+      "average_confidence": 85.0
+    },
+    "Date of Expiry": {
+      "total_occurrences": 1,
+      "times_extracted": 1,
+      "times_flagged": 0,
+      "average_confidence": 85.0
+    },
+    "Date of Issue": {
+      "total_occurrences": 1,
+      "times_extracted": 1,
+      "times_flagged": 0,
+      "average_confidence": 85.0
+    },
+    "Father's Name": {
+      "total_occurrences": 3,
+      "times_extracted": 0,
+      "times_flagged": 3,
+      "average_confidence": 0.0
+    },
+    "Frequency": {
+      "total_occurrences": 2,
+      "times_extracted": 0,
+      "times_flagged": 2,
+      "average_confidence": 0.0
+    },
+    "Full Name": {
+      "total_occurrences": 2,
+      "times_extracted": 1,
+      "times_flagged": 1,
+      "average_confidence": 42.5
+    },
+    "IFSC Code": {
+      "total_occurrences": 2,
+      "times_extracted": 0,
+      "times_flagged": 2,
+      "average_confidence": 0.0
+    },
+    "MRZ Line 2": {
+      "total_occurrences": 1,
+      "times_extracted": 0,
+      "times_flagged": 1,
+      "average_confidence": 0.0
+    },
+    "Name": {
+      "total_occurrences": 1,
+      "times_extracted": 0,
+      "times_flagged": 1,
+      "average_confidence": 0.0
+    },
+    "Name of Life Assured": {
+      "total_occurrences": 1,
+      "times_extracted": 0,
+      "times_flagged": 1,
+      "average_confidence": 0.0
+    },
+    "Nationality": {
+      "total_occurrences": 2,
+      "times_extracted": 1,
+      "times_flagged": 1,
+      "average_confidence": 40.0
+    },
+    "Nominee Relationship": {
+      "total_occurrences": 1,
+      "times_extracted": 1,
+      "times_flagged": 0,
+      "average_confidence": 75.0
+    },
+    "PAN Number": {
+      "total_occurrences": 1,
+      "times_extracted": 1,
+      "times_flagged": 0,
+      "average_confidence": 100.0
+    },
+    "Passport Number": {
+      "total_occurrences": 1,
+      "times_extracted": 1,
+      "times_flagged": 0,
+      "average_confidence": 95.0
+    },
+    "Place": {
+      "total_occurrences": 4,
+      "times_extracted": 2,
+      "times_flagged": 2,
+      "average_confidence": 32.5
+    },
+    "Place of Birth": {
+      "total_occurrences": 2,
+      "times_extracted": 0,
+      "times_flagged": 2,
+      "average_confidence": 0.0
+    },
+    "Policy Number": {
+      "total_occurrences": 2,
+      "times_extracted": 1,
+      "times_flagged": 1,
+      "average_confidence": 37.5
+    },
+    "Policyholder Name": {
+      "total_occurrences": 2,
+      "times_extracted": 0,
+      "times_flagged": 2,
+      "average_confidence": 0.0
+    },
+    "Proposer Name": {
+      "total_occurrences": 1,
+      "times_extracted": 0,
+      "times_flagged": 1,
+      "average_confidence": 0.0
+    },
+    "Reason for Multiple Policies (selected checkbox)": {
+      "total_occurrences": 1,
+      "times_extracted": 0,
+      "times_flagged": 1,
+      "average_confidence": 0.0
+    },
+    "TIN / PAN": {
+      "total_occurrences": 2,
+      "times_extracted": 2,
+      "times_flagged": 0,
+      "average_confidence": 82.5
+    },
+    "Valid Till date": {
+      "total_occurrences": 1,
+      "times_extracted": 1,
+      "times_flagged": 0,
+      "average_confidence": 85.0
+    }
+  },
+  "per_document_summary": [
+    {
+      "doc_id": "Aadhar",
+      "doc_type": "Aadhaar Card",
+      "handwritten": false,
+      "extracted_fields": 4,
+      "total_fields": 4,
+      "flagged_fields": 0,
+      "overall_confidence": 85
+    },
+    {
+      "doc_id": "Assignment Ashok",
+      "doc_type": "FATCA Annexure Form",
+      "handwritten": true,
+      "extracted_fields": 2,
+      "total_fields": 5,
+      "flagged_fields": 3,
+      "overall_confidence": 87
+    },
+    {
+      "doc_id": "ChatGPT Image May 2, 2026, 03_43_11 PM",
+      "doc_type": "Driving Licence",
+      "handwritten": false,
+      "extracted_fields": 3,
+      "total_fields": 4,
+      "flagged_fields": 1,
+      "overall_confidence": 85
+    },
+    {
+      "doc_id": "ChatGPT Image May 2, 2026, 03_52_54 PM",
+      "doc_type": "Passport",
+      "handwritten": false,
+      "extracted_fields": 3,
+      "total_fields": 4,
+      "flagged_fields": 1,
+      "overall_confidence": 88
+    },
+    {
+      "doc_id": "ECS",
+      "doc_type": "NACH / ECS Mandate",
+      "handwritten": true,
+      "extracted_fields": 1,
+      "total_fields": 5,
+      "flagged_fields": 4,
+      "overall_confidence": 70
+    },
+    {
+      "doc_id": "Fatca",
+      "doc_type": "FATCA Annexure Form",
+      "handwritten": true,
+      "extracted_fields": 2,
+      "total_fields": 5,
+      "flagged_fields": 3,
+      "overall_confidence": 72
+    },
+    {
+      "doc_id": "ID",
+      "doc_type": "PAN Card",
+      "handwritten": false,
+      "extracted_fields": 2,
+      "total_fields": 4,
+      "flagged_fields": 2,
+      "overall_confidence": 92
+    },
+    {
+      "doc_id": "Illustration",
+      "doc_type": "Benefit Illustration Declaration",
+      "handwritten": true,
+      "extracted_fields": 1,
+      "total_fields": 4,
+      "flagged_fields": 3,
+      "overall_confidence": 75
+    },
+    {
+      "doc_id": "Moral",
+      "doc_type": "Moral Hazard Questionnaire",
+      "handwritten": true,
+      "extracted_fields": 2,
+      "total_fields": 5,
+      "flagged_fields": 3,
+      "overall_confidence": 67
+    },
+    {
+      "doc_id": "Proposal Ashok",
+      "doc_type": "NACH / ECS Mandate",
+      "handwritten": true,
+      "extracted_fields": 2,
+      "total_fields": 5,
+      "flagged_fields": 3,
+      "overall_confidence": 72
+    },
+    {
+      "doc_id": "split",
+      "doc_type": "Multiple Policies Consent Form",
+      "handwritten": true,
+      "extracted_fields": 1,
+      "total_fields": 4,
+      "flagged_fields": 3,
+      "overall_confidence": 65
+    },
+    {
+      "doc_id": "suitability",
+      "doc_type": "Benefit Illustration Declaration",
+      "handwritten": true,
+      "extracted_fields": 2,
+      "total_fields": 4,
+      "flagged_fields": 2,
+      "overall_confidence": 82
+    }
+  ]
+}

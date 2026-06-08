@@ -1,0 +1,19 @@
+git# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+data_extractor_venv/
+
+# VS Code (optional)
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+__init__.py
+__pychache__/
+new_pipeline__init__.py
+tesseract-setup.exe

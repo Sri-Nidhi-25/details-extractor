@@ -1,0 +1,10 @@
+{
+  "filename": "Aadhar.png",
+  "doc_type": "Aadhaar Card",
+  "fields": {
+    "Aadhaar Number": "1234 5678 9012",
+    "Full Name": "Mr. Ashok",
+    "Date of Birth": "18/12/1979",
+    "Address": "S/O Kumar, Kataia, West Bihar, India - 841543"
+  }
+}

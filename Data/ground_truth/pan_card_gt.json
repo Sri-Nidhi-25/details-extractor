@@ -1,0 +1,10 @@
+{
+  "filename": "ID.png",
+  "doc_type": "PAN Card",
+  "fields": {
+    "PAN Number": "ABCDE1234F",
+    "Full Name": "MR. ASHOK",
+    "Father's Name": "KUMAR",
+    "Date of Birth": "18/12/1979"
+  }
+}
